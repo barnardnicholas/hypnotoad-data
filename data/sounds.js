@@ -101,3 +101,5 @@ const sounds = [
     }
   }
 ];
+
+module.exports = { sounds };

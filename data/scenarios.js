@@ -1,4 +1,4 @@
-const scenarios = [
+export default scenarios = [
   {
     name: "Italian Birds",
     slug: "italianbirds",
